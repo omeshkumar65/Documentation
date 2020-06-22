@@ -3,7 +3,7 @@
 title: Agora's free-of-charge policy for the first 10,000 minutes
 description: 
 platform: All Platforms
-updatedAt: Mon Dec 16 2019 20:14:45 GMT+0800 (CST)
+updated At: Mon Dec 16 2019 20:14:45 GMT+0800 (CST)
 ---
 # Agora's free-of-charge policy for the first 10,000 minutes
 Agora gives each [Agora Account](https://console.agora.io/) 10,000 charge-free minutes each month, and deducts the minutes in the following sequence: 
